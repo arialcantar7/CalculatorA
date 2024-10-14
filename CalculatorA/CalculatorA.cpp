@@ -5,7 +5,7 @@
  Team Coordinator: [Student's name]
 
  Collaborator #1: [Student's name]
- Collaborator #2: [Student's name]
+ Collaborator #2: [Jazzlynn Ceron]
 
 *******************************************************************************/
 #include <iostream>
@@ -36,7 +36,7 @@ int main() {
         result = add(num1, num2);
         break;
     case '-':
-        result = subtract(num1, num2);
+        result = (num1- num2);
         break;
     default:
         cerr << "Error: Invalid operator!" << endl;
