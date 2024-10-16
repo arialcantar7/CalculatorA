@@ -4,7 +4,7 @@
 
  Team Coordinator: [Student's name]
 
- Collaborator #1: [Student's name]
+ Collaborator #1: [Enrique Doster]
  Collaborator #2: [Jazzlynn Ceron]
 
 *******************************************************************************/
@@ -33,7 +33,7 @@ int main() {
 
     switch (operation) {
     case '+':
-        result = add(num1, num2);
+        result = (num1 + num2);
         break;
     case '-':
         result = (num1- num2);
